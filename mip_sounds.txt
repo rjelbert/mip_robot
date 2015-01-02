@@ -1,12 +1,12 @@
-1 - short tone
-2 – burp
-3 – sip of drink and “ahhhh”
-4 – chuckle or “yum yum yum yum yum”
-5 – fart
-6 – snore / unknown
-7 – punch smack 1
-8 -  punch smack 2
-9 – punch smack 3
+01 - short tone
+02 – burp
+03 – sip of drink and “ahhhh”
+04 – chuckle or “yum yum yum yum yum”
+05 – fart
+06 – snore / unknown
+07 – punch smack 1
+08 -  punch smack 2
+09 – punch smack 3
 0A – “ummm mup”?
 OB – mip 1?
 OC – mip 2?
