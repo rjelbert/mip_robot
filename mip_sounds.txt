@@ -1,3 +1,5 @@
+This is the list of sounds for the MIP robot when uing the 0x06 play sound command
+It's been really hard to know exactly what's being said so please send updates.
 01 - short tone
 02 – burp
 03 – sip of drink and “ahhhh”
@@ -102,5 +104,5 @@ OE – arhh!?
 66 – symbol hit ????
 67 – laser shot sound
 68 – weeee sound effect
-69 – no sound ????
+69 – STOP PLAYNG SOUND
 6A – “wap”
